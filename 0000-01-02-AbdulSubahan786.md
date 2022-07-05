@@ -1,0 +1,5 @@
+- [x] Additional markup is supported, including @mentions, #references, [links](urls), **emphasis**, and <del>HTML tags</del>.
+- [x] List sintax is required. 
+   - You can nest list below, too!
+- [x] This item is completed.
+- [ ] This item is not complete. 
